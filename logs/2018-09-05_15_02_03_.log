@@ -1,0 +1,10 @@
+2018-09-05 15:02:03,177  - INFO - 选择的浏览器为: Chrome 浏览器
+2018-09-05 15:02:03,178  - INFO - 打开的URL为: https://www-uat.szhqfin.com
+2018-09-05 15:02:07,568  - INFO - 启动谷歌浏览器
+2018-09-05 15:02:14,022  - INFO - 打开URL: https://www-uat.szhqfin.com
+2018-09-05 15:02:15,159  - INFO - 全屏当前窗口
+2018-09-05 15:02:15,160  - INFO - 设置5秒隐式等待时间
+2018-09-05 15:02:15,165  - INFO - 清空文本框内容: //*[@id="pane-first"]/form/div[1]/div[1]/div/div/input...
+2018-09-05 15:02:48,469  - WARNING - 查找元素超时: //*[@id="pane-first"]/form/div[1]/div[1]/div/div/input
+2018-09-05 15:02:48,476  - INFO - 清空文本框内容: //*[@id="pane-first"]/form/div[1]/div[1]/div/div/input...
+2018-09-05 15:03:21,692  - WARNING - 查找元素超时: //*[@id="pane-first"]/form/div[1]/div[1]/div/div/input
