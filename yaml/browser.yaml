@@ -1,0 +1,16 @@
+brwserType:
+  #browserName : Firefox
+  browserName : Chrome
+  #browserName : IE
+
+testUrl:
+  # URL : https://finacing.hqyixin.com/
+  URL : https://www-uat.szhqfin.com
+  # URL : https://www.baidu.com
+
+testUsername:
+  username : 13828829616
+
+testPassword:
+  password : Mai123mjh
+ 
